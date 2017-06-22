@@ -1,9 +1,9 @@
 # Site settings
-title: Spectral
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title: Iron Horse Fitness
+email: ironhorsefitness@gmail.com
+description: Iron Horse Fitness Training Gym
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ironhorsefitness.github.io/" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -15,14 +15,14 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
+
+sass:
+  style: compressed
