@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+description: 
 ---
 
 ### About Iron Horse Fitness
