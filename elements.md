@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trainers
+title: Elements
 description: 
 ---
 
