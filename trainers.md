@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Trainers
+description: 
 ---
 
 <section>
