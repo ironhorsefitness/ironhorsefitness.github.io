@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: About
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 
