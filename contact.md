@@ -4,7 +4,6 @@ title: Contact
 description: 
 ---
 <section>
-	<h4>Form</h4>
 	<!--<form method="post" action="#">
 		<div class="row uniform">
 			<div class="6u 12u$(xsmall)">
@@ -47,6 +46,7 @@ description:
 					<label for="message">Message</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
+				<br>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
