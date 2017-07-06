@@ -10,7 +10,7 @@ description:
 			<input name="first_name" type="text" class="form-control"/>
 			<br>
 			<label>Email</label>
-			<input type="text" name="*reply" value="email" class="form-control" />
+			<input type="text" name="*reply" class="form-control" />
 			<br>
   			<label>Your message</label>
   			<input name="message" type="text" class="form-control"/>
