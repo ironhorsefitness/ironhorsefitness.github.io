@@ -1,6 +1,7 @@
 # Site settings
 title: Iron Horse Fitness
 email: ironhorsefitnessdanville@gmail.com
+address: 115 Railroad Ave. Danville, CA 94526
 description: Iron Horse Fitness Training Gym
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ironhorsefitness.github.io" # the base hostname & protocol for your site
