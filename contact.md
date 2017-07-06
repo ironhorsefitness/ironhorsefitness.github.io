@@ -13,7 +13,7 @@ description:
 			<input type="text" name="*reply" value="email" class="form-control" />
 			<br>
   			<label>Your message</label>
-  			<textarea name="message" type="text" class="form-control"/></textarea>
+  			<input name="message" type="text" class="form-control"/>
 			<br>
 			<button type="submit" class="btn btn-default">Submit</button>
 		</div>
