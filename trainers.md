@@ -26,3 +26,10 @@ My name is Cody Sinclair Burman, I am a Certified Personal Trainer through NESTA
 ![Jon](assets/images/jon.jpg){:height="35%" width="35%" style="float:left; padding-right:15px;"}
 Jon Lucchesi, a runner, triathlete and former member of the 2001 University of Oregon Pac-10 Championship Football Team, has an infectious enthusiasm for fitness. Working with some of the top minds in strength and conditioning on the University of Oregon Football field helped to shape his approach to fitness that he uses today. Jon specializes in run coaching, sports conditioning, mobility, and general fitness. He is a certified trainer with the National Academy of Sports Medicine, a certified level II run coach with USA Track and Field, and a certified TRX instructor.
 
+
+#### Tom
+
+![Tom](assets/images/tomhodge.jpg){:height="35%" width="35%" style="float:left; padding-right:15px;"}
+Tom Hodge has been coaching triathletes, cyclists and runners for 30 years.  Specializing in endurance athletes of all levels and abilities.  Tom enjoys coaching everyone from first timers to pros.  As a former pro triathlete himself, Tom understands the demands of endurance sports and has the experience and knowledge to help others achieve their athletic best. With a B.S. in Kinesiology from the University of California, Los Angeles, and with 30 years of racing under his belt, Tom has completed over 300 multi-sport events including 23 Ironman’s.  He has participated in six Hawaiian Ironman World Championships and also a two-time Triathlon Team USA Member.  Tom has also worked for Stanford Athletics.  What sets him apart is not only his impressive finishing times but also his involvement and leadership in the triathlon and athletic community. For training session information contact Tom Hodge:[TOM@RECOVOX.NET](mailto:TOM@RECOVOX.NET)
+
+
