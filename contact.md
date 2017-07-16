@@ -11,7 +11,7 @@ description:
 					<label>Email</label>
 					<input type="text" name="email" class="form-control" />
 					<label>Your message</label>
-					<textarea name="message" type="text" class="form-control"/></textarea>
+					<input ype="text" name="message" class="form-control"/></textarea>
 				</div>
 				<br>
 				<button type="submit" class="btn btn-default">Submit</button>
