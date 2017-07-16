@@ -5,17 +5,15 @@ description:
 ---
 <section>
 	<form action="https://www.enformed.io/weoiss5p" method="POST">
-		<div class="form-group">
-			<label>Name</label>
-			<input name="first_name" type="text" class="form-control"/>
-			<br>
-			<label>Email</label>
-			<input type="text" name="*reply" class="form-control" />
-			<br>
-  			<label>Your message</label>
-			<input type="text" name="message" class="form-control" />
-			<br>
-			<button type="submit" class="btn btn-default">Submit</button>
-		</div>
-	</form>
+				<div class="form-group">
+					<label>Name</label>
+					<input name="first_name" type="text" class="form-control"/>
+					<label>Email</label>
+					<input type="text" name="email" class="form-control" />
+					<label>Your message</label>
+					<textarea name="message" type="text" class="form-control"/></textarea>
+				</div>
+				<br>
+				<button type="submit" class="btn btn-default">Submit</button>
+			</form>
 </section>
