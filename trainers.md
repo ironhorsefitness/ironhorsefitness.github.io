@@ -33,7 +33,7 @@ Specialties:<br>
 * Adaptive Exercise for Special Needs/Handicapped Demographics 
 * Powerlifting 
 * Diet and Nutrition, IIFYM 
-<br>
+<br><br>
 Follow me on IG: [m_lassalle](https://www.instagram.com/m_lassalle)
 <br><br>
 
