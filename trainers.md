@@ -32,7 +32,9 @@ Specialties:<br>
 * Athletic Performance Exercise and Mechanics
 * Adaptive Exercise for Special Needs/Handicapped Demographics 
 * Powerlifting 
-* Diet and Nutrition, IIFYM   
+* Diet and Nutrition, IIFYM 
+<br>
+Follow me on IG: [m_lassalle](https://www.instagram.com/m_lassalle)
 <br><br>
 
 #### Marci
