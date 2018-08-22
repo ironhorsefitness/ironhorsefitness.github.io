@@ -5,7 +5,7 @@ description:
 ---
 #### Eric
 
-![Eric](assets/images/eric2.jpg){:height="27.5%" width="27.5%" style="align: left; float:left; padding-top:10px; padding-right:15px;"}
+![Eric](assets/images/ironhorsefitness_eric_picv21.jpg){:height="27.5%" width="27.5%" style="align: left; float:left; padding-top:10px; padding-right:15px;"}
 Eric Walterhouse, owner of Iron Horse Fitness, is intensely focused on providing client-specific strength training, power lifting, injury rehab and sports performance as well as weight loss and general fitness. He works with people in all sports –baseball, football, hockey, golf and basketball.<br><br>Before becoming owner of Iron Horse Fitness, Eric was a Master Trainer at 24 Hour Fitness in San Ramon for 3 1/2 years, developing client-specific exercise programs, teaching lifting techniques, and helping with rehabilitation of injuries. <br><br>An NASM Certified Personal Trainer and member of the National Strength and Conditioning Association, Eric holds his Masters degree in Exercise Science and Rehab from Logan College of Chiropractic and his BS in Exercise Science from Missouri Baptist University (MBU), St. Louis, MO.<br><br>Eric played College-level baseball for four years and served as Assistant Coach for the NorCal Baseball Association in Danville, CA, from 2006 to 2010, coaching third base and supervising weight training and nutrition discussions. <br><br>At MBU, he was an Exercise Physiology Lab Assistant and a Teacher&#39;s Assistant/Lab Teacher for Exercise Testing and the Exercise Physiology Lab. He later became Ohlone Community College Baseball Strength and Conditioning Coach, developing the off-season strength program and supervising weekly training as well as teaching power-lifting techniques.
 <br><br>
 
