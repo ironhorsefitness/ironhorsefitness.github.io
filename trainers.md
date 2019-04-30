@@ -9,34 +9,6 @@ description:
 Eric Walterhouse, owner of Iron Horse Fitness, is intensely focused on providing client-specific strength training, power lifting, injury rehab and sports performance as well as weight loss and general fitness. He works with people in all sports –baseball, football, hockey, golf and basketball.<br><br>Before becoming owner of Iron Horse Fitness, Eric was a Master Trainer at 24 Hour Fitness in San Ramon for 3 1/2 years, developing client-specific exercise programs, teaching lifting techniques, and helping with rehabilitation of injuries. <br><br>An NASM Certified Personal Trainer and member of the National Strength and Conditioning Association, Eric holds his Masters degree in Exercise Science and Rehab from Logan College of Chiropractic and his BS in Exercise Science from Missouri Baptist University (MBU), St. Louis, MO.<br><br>Eric played College-level baseball for four years and served as Assistant Coach for the NorCal Baseball Association in Danville, CA, from 2006 to 2010, coaching third base and supervising weight training and nutrition discussions. <br><br>At MBU, he was an Exercise Physiology Lab Assistant and a Teacher&#39;s Assistant/Lab Teacher for Exercise Testing and the Exercise Physiology Lab. He later became Ohlone Community College Baseball Strength and Conditioning Coach, developing the off-season strength program and supervising weekly training as well as teaching power-lifting techniques.
 <br><br>
 
-#### Marc
-
-![Marc](assets/images/marc.jpg){:height="25%" width="25%" style="align: left; float:left; padding-top:10px; padding-right:15px;"}
-Marc Lassalle is a Fitness Professional and Personal Trainer who has been working in the industry since 2012.  He served honorably in the United States Navy from 2008-2015, and deployed overseas in service to Operation Enduring Freedom, Operation New Dawn, and Joint Force Counter Piracy Operation Ocean Shield off the Horn of Africa.  His love of health, fitness, & working out started when he was deployed in 2011 as a stress reliever with day to day operations.  Once he returned home, Marc realized he wanted to turn this passion for fitness he discovered into a career to help people be their best selves and find their own stress relief.<br><br>In 2012, he became a Certified Personal Trainer and a Certified Sports Nutrition Specialist.  Marc started his fitness career with Crunch Gym in San Mateo, and from there he had partial ownership in a Nutrition Store in Redwood City, while training part time at a facility nearby and thus starting his Independent Training career.  Leaving Silicon Valley for good in 2015, he has been training clients full time ever since in the San Ramon/Danville Area.  Marc is a cut above the grain from his education & passion for his clients needs, to his quick witted sense of humor, and his trademark silkies shorts that make him his own. He has helped hundreds of people, and spent thousands of hours training clients to meet fitness goals, improve health, and quality of life.  Will you be the next person who he helps?<br><br>If you are looking to meet your fitness goals, stay motivated while having a good laugh, to adapt to a military like mindset of "never say die" & "there's only I can, not I can't", and become more educated with your workouts/knowledged about how your body works, Marc is the trainer for you.<br><br>
-Marc's Education and Specialties<br>
-Education:<br>
-* NPTI Graduate Degree in APT Class of 15'
-* National Academy of Sports Medicine, Certified Personal Trainer
-* National Academy of Sports Medicine, Corrective Exercise Specialist 
-* National Academy of Sports Medicine, Performance Exercise Specialist 
-* National Academy of Sports Medicine, Weight Loss Specialist 
-* National Academy of Sports Medicine, Fitness Nutrition Specialist 
-* International Sport Sciences Association, Certified Personal Trainer
-* International Sport Sciences Association, Sports Nutrition Specialist
-<br><br>
-Specialties:<br>
-* Weight loss/Fat loss
-* Lean Muscle Gain
-* Corrective/Rehabilitation Exercise
-* Mobility/Flexibility 
-* Athletic Performance Exercise and Mechanics
-* Adaptive Exercise for Special Needs/Handicapped Demographics 
-* Powerlifting 
-* Diet and Nutrition, IIFYM 
-<br><br>
-Follow me on IG: [m_lassalle](https://www.instagram.com/m_lassalle)
-<br><br>
-
 #### Marci
 
 ![Marci](assets/images/marci.jpg){:height="25%" width="25%" style="align: left; float:left; padding-top:10px; padding-right:15px;"}
