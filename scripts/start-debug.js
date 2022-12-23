@@ -1,3 +1,4 @@
+
 const concurrently = require('concurrently');
 const upath = require('upath');
 
@@ -21,4 +22,5 @@ function success() {
 
 function failure() {
     console.log('Failure');
+
 }

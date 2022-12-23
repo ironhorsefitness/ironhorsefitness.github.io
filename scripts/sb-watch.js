@@ -1,3 +1,4 @@
+
 'use strict';
 
 const _ = require('lodash');
@@ -83,4 +84,5 @@ function _renderAllPug() {
 
 function _handleSCSS() {
     renderSCSS();
+
 }

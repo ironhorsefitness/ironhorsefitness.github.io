@@ -1,3 +1,4 @@
+
 'use strict';
 const fs = require('fs');
 const upath = require('upath');
@@ -8,4 +9,5 @@ module.exports = function renderAssets() {
     const destPath = upath.resolve(upath.dirname(__filename), '../dist/.');
     
     sh.cp('-R', sourcePath, destPath)
+
 };

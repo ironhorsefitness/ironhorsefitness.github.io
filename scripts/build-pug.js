@@ -1,3 +1,4 @@
+
 'use strict';
 const upath = require('upath');
 const sh = require('shelljs');
@@ -16,4 +17,5 @@ function _processFile(filePath) {
     ) {
         renderPug(filePath);
     }
+
 }
